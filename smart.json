@@ -1,0 +1,10 @@
+{
+  "name": "humane",
+  "description": "A wrapper package for the Humane.js notification library.",
+  "homepage": "https://github.com/kvsm/meteor-humane",
+  "author": "Kevin Smith <kvsm81@gmail.com>",
+  "version": "3.1.0",
+  "git": "https://github.com/kvsm/meteor-humane.git",
+  "packages": {
+  }
+}
